@@ -4,6 +4,6 @@
 
 ### 1. Using SD card image from Ubuntu
 
-#### a. Download [etcher](https://etcher.balena.io/)
+#### a. Download [balena etcher](https://etcher.balena.io/)
 
-#### b. Download the [ubuntu](https://ubuntu.com/download/amd) image
+#### b. Download the [ubuntu image](https://ubuntu.com/download/amd) 
