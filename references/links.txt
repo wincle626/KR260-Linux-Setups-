@@ -6,3 +6,9 @@ https://xilinx.github.io/kria-apps-docs/home/build/html/index.html
 
 https://ubuntu.com/download/amd
 
+https://xilinx.github.io/kria-apps-docs/kr260/build/html/docs/generating_custom_firmware.html
+
+https://xilinx-wiki.atlassian.net/wiki/spaces/A/pages/18842279/Build+Device+Tree+Blob
+
+https://github.com/Xilinx/kria-apps-firmware
+
