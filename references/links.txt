@@ -1,0 +1,8 @@
+https://www.amd.com/en/products/system-on-modules/kria/k26/kr260-robotics-starter-kit/getting-started/getting-started.html
+
+https://www.amd.com/en/products/system-on-modules/kria/k26/kv260-vision-starter-kit/getting-started-ubuntu/getting-started.html
+
+https://xilinx.github.io/kria-apps-docs/home/build/html/index.html
+
+https://ubuntu.com/download/amd
+
