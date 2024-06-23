@@ -6,4 +6,4 @@
 
 #### a. Download [etcher](https://etcher.balena.io/)
 
-#### b. Download the image from [ubuntu](https://ubuntu.com/download/amd)
+#### b. Download the [ubuntu](https://ubuntu.com/download/amd) image
