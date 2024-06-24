@@ -12,3 +12,8 @@ https://xilinx-wiki.atlassian.net/wiki/spaces/A/pages/18842279/Build+Device+Tree
 
 https://github.com/Xilinx/kria-apps-firmware
 
+https://xilinx-wiki.atlassian.net/wiki/spaces/A/pages/2287796272/Rebuilding+the+Certified+Ubuntu+for+Xilinx+Devices+20.04+LTS+Kernel+from+Source
+
+https://git.launchpad.net/~canonical-kernel/ubuntu/+source/linux-xilinx-zynqmp/+git/jammy
+
+https://git.launchpad.net/~canonical-kernel/ubuntu/+source/linux-xilinx-zynqmp/+git/focal
