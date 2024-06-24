@@ -28,6 +28,10 @@ Open the prepared SD card folder in file blowser and locate the file /etc/pam.d/
 
 #### (PS: this method works for both KR260 and KV260. Ubuntu provides the universial Ubuntu image for these two devices. )
 
-### 2. Use customized linux kernel and system root files. 
+### 2. Rebuilding the Certified Ubuntu for Xilinx Devices Kernel from Source. 
 
-#### a. 
+#### a. Clone Ubuntu source to local
+
+git clone https://git.launchpad.net/~canonical-kernel/ubuntu/+source/linux-xilinx-zynqmp/+git/jammy 
+
+(PS:jammy refers to Ubuntu 22.04, replace jammy with focal for Ubuntu 20.04)
