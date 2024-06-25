@@ -36,7 +36,7 @@ git clone https://git.launchpad.net/~canonical-kernel/ubuntu/+source/linux-xilin
 
 (PS:jammy refers to Ubuntu 22.04, replace jammy with focal for Ubuntu 20.04)
 
-#### b. Checkout specific tag (Or just use the latest tag)
+#### b. Checkout specific tag
 
 cd jammy
 
