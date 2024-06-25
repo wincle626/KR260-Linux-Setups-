@@ -28,7 +28,7 @@ Open the prepared SD card folder in file blowser and locate the file /etc/pam.d/
 
 #### (PS: this method works for both KR260 and KV260. Ubuntu provides the universial Ubuntu image for these two devices. )
 
-### 2. Rebuilding the Certified Ubuntu for Xilinx Devices Kernel from Source. 
+### 2. Rebuilding the Certified Ubuntu for Xilinx Devices Kernel from Source (On KR260)
 
 #### a. Clone Ubuntu source to local
 
@@ -51,6 +51,8 @@ sudo apt install libncurses-dev gawk flex bison openssl libssl-dev dkms libelf-d
 export ARCH=arm64
 
 export $(dpkg-architecture -aarm64)
+
+(PS: if using cross compile on the host PC, add "export CROSS_COMPILE=aarch64-linux-gnu-" before building the kernel)
 
 fakeroot debian/rules clean
 
