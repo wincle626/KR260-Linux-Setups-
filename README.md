@@ -42,6 +42,20 @@ cd jammy
 
 git checkout Ubuntu-xilinx-zynqmp-5.15.0-1032.36
 
-#### c. install prerequisite
+#### c. Install prerequisite
 
 sudo apt install libncurses-dev gawk flex bison openssl libssl-dev dkms libelf-dev libudev-dev libpci-dev libiberty-dev autoconf python-docutils asciidoc
+
+#### d. Change kernel settings
+
+fakeroot debian/rules clean
+
+fakeroot debian/rules editconfigs
+
+#### e. Build kernel packages
+
+fakeroot debian/rules clean
+
+fakeroot debian/rules binary
+
+#### f. Install new kernel packages
