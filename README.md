@@ -52,6 +52,8 @@ fakeroot debian/rules clean
 
 fakeroot debian/rules editconfigs
 
+<img title="a title" alt="https://github.com/wincle626/KR260-Linux-Setups-/blob/main/images/Screenshot%202024-06-25%20093600.png">
+
 #### e. Build kernel packages
 
 fakeroot debian/rules clean
