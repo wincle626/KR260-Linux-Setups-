@@ -48,6 +48,10 @@ sudo apt install libncurses-dev gawk flex bison openssl libssl-dev dkms libelf-d
 
 #### d. Change kernel settings
 
+export ARCH=arm64
+
+export $(dpkg-architecture -aarm64)
+
 fakeroot debian/rules clean
 
 fakeroot debian/rules editconfigs
