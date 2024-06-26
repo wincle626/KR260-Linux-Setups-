@@ -44,7 +44,7 @@ git checkout Ubuntu-xilinx-zynqmp-5.15.0-1032.36
 
 #### c. Install prerequisite
 
-sudo apt install libncurses-dev gawk flex bison openssl libssl-dev dkms libelf-dev libudev-dev libpci-dev libiberty-dev autoconf python-docutils python3-docutils asciidoc default-jdk dwarves
+sudo apt install libncurses-dev gawk flex bison openssl libssl-dev dkms libelf-dev libudev-dev libpci-dev libiberty-dev autoconf python-docutils python3-docutils asciidoc default-jdk dwarves bison flex libelf-dev fakeroot build-essential crash kexec-tools makedumpfile kernel-wedge libncurses5 libncurses5-dev libelf-dev asciidoc binutils-dev libudev-dev
 
 #### d. Change kernel settings
 
