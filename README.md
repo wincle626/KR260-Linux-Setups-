@@ -1,6 +1,6 @@
 # The is the repository for setting up KR260 linux with ROS
 
-<img title="a title" alt="Alt text" style="width:200px;" src="https://github.com/wincle626/KR260-Linux-Setups-/blob/main/images/20240623_200214.jpg">
+<img title="a title" alt="Alt text" style="width:640px;" src="https://github.com/wincle626/KR260-Linux-Setups-/blob/main/images/20240623_200214.jpg">
 
 ## Prepare SD card
 
