@@ -96,7 +96,7 @@ Then install all the deb on KR260.
 
 Download [PetaLinux v2022.1](https://www.xilinx.com/member/forms/download/xef.html?filename=petalinux-v2022.1-04191534-installer.run)
 
-./petalinux-v2022.1-04191534-installer.run --dir <folder to install>
+./petalinux-v2022.1-04191534-installer.run --dir [folder to install]
 
 #### b. Download KR260 Board Support Package (BSP)
 
