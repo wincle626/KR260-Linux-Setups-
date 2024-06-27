@@ -99,3 +99,5 @@ Then install all the deb on KR260.
 #### c. Create PetaLinux project
 
 #### d. Generate SD card image
+
+#### e. Copy to SD card using the same steps in 1.b
