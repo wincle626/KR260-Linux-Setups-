@@ -69,3 +69,17 @@ fakeroot debian/rules binary
 <img title="a title" alt="Alt text" src="https://github.com/wincle626/KR260-Linux-Setups-/blob/main/images/Screenshot from 2024-06-27 01-18-12.png">
 
 #### f. Install new kernel packages
+
+If the package is built on KR260:
+
+cd ..
+
+sudo dpkg -i *.deb
+
+If the package is built on host PC: 
+
+cd ..
+
+scp *.deb ubuntu@(KR260 IP address):/home/ubuntu
+
+Then install all the deb on KR260. 
