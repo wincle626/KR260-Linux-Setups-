@@ -87,3 +87,5 @@ Then install all the deb on KR260.
 <img title="a title" alt="Alt text" style="width:640px;" src="https://github.com/wincle626/KR260-Linux-Setups-/blob/main/images/Screenshot%202024-06-27%20212243.png">
 
 <img title="a title" alt="Alt text" style="width:640px;" src="https://github.com/wincle626/KR260-Linux-Setups-/blob/main/images/Screenshot%202024-06-27%20213056.png">
+
+<img title="a title" alt="Alt text" style="width:640px;" src="https://github.com/wincle626/KR260-Linux-Setups-/blob/main/images/Screenshot%202024-06-27%20213518a.png">
