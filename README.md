@@ -8,19 +8,19 @@
 
 #### a. Download [balena etcher application](https://etcher.balena.io/)
 
-<img title="a title" alt="Alt text" src="https://github.com/wincle626/KR260-Linux-Setups-/blob/main/images/Screenshot%20from%202024-06-23%2021-03-26.png">
+<img title="a title" alt="Alt text" style="width:640px;" src="https://github.com/wincle626/KR260-Linux-Setups-/blob/main/images/Screenshot%20from%202024-06-23%2021-03-26.png">
 
 Using commande chmod +x balenaEtcher-1.18.11-x64.AppImage to enable the executable of balena etcher application. 
 
 #### b. Download the [ubuntu image](https://ubuntu.com/download/amd) and copy to SD card
 
-<img title="a title" alt="Alt text" src="https://github.com/wincle626/KR260-Linux-Setups-/blob/main/images/Screenshot%20from%202024-06-23%2021-05-04.png">
+<img title="a title" alt="Alt text" style="width:640px;" src="https://github.com/wincle626/KR260-Linux-Setups-/blob/main/images/Screenshot%20from%202024-06-23%2021-05-04.png">
 
 Using command xz -d iot-limerick-kria-classic-desktop-2204-20240304-165.img.xz to unzip the compressed ubuntu image. 
 
 Run the belane etcher application and choose the image and the target SD card drive, then click on the Flash! to copy all image content to the SD card.
 
-<img title="a title" alt="Alt text" src="https://github.com/wincle626/KR260-Linux-Setups-/blob/main/images/Screenshot%20from%202024-06-23%2022-58-13.png">
+<img title="a title" alt="Alt text" style="width:640px;" src="https://github.com/wincle626/KR260-Linux-Setups-/blob/main/images/Screenshot%20from%202024-06-23%2022-58-13.png">
 
 #### c. Chage the password policy to enable simple password
 
@@ -58,7 +58,7 @@ fakeroot debian/rules clean
 
 fakeroot debian/rules editconfigs
 
-<img title="a title" alt="Alt text" src="https://github.com/wincle626/KR260-Linux-Setups-/blob/main/images/Screenshot%202024-06-25%20093600.png">
+<img title="a title" alt="Alt text" style="width:640px;" src="https://github.com/wincle626/KR260-Linux-Setups-/blob/main/images/Screenshot%202024-06-25%20093600.png">
 
 #### e. Build kernel packages
 
@@ -66,7 +66,7 @@ fakeroot debian/rules clean
 
 fakeroot debian/rules binary
 
-<img title="a title" alt="Alt text" src="https://github.com/wincle626/KR260-Linux-Setups-/blob/main/images/Screenshot from 2024-06-27 01-18-12.png">
+<img title="a title" alt="Alt text" style="width:640px;" src="https://github.com/wincle626/KR260-Linux-Setups-/blob/main/images/Screenshot from 2024-06-27 01-18-12.png">
 
 #### f. Install new kernel packages
 
