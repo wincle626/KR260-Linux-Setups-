@@ -66,4 +66,6 @@ fakeroot debian/rules clean
 
 fakeroot debian/rules binary
 
+<img title="a title" alt="Alt text" src="https://github.com/wincle626/KR260-Linux-Setups-/blob/main/images/Screenshot from 2024-06-27 01-18-12.png">
+
 #### f. Install new kernel packages
