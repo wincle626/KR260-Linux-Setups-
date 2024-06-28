@@ -104,6 +104,12 @@ Download [BSP v2022.1 for KR260](https://www.xilinx.com/member/forms/download/xe
 
 #### c. Create PetaLinux project
 
+petalinux-create -t project -s ./xilinx-kr260-starterkit-v2022.1-05140151.bsp
+
 #### d. Generate SD card image
+
+cd xilinx-kr260-starterkit-v2022.1
+
+petalinux-build
 
 #### e. Copy to SD card using the same steps in 1.b
